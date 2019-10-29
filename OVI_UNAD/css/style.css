@@ -108,3 +108,16 @@ body {
     width: 800px;
     height: 600px;
   }
+
+ aside{
+    display: block;
+ }
+
+ section{
+    display: block;
+ }
+ div.twitter{
+    
+    width: 300px;
+    height: 300px;
+ }
