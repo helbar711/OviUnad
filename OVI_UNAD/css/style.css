@@ -121,3 +121,17 @@ body {
     width: 300px;
     height: 300px;
  }
+ div.contenedorInicial {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1200px;
+  background-color: #005883;
+  
+}
+div.contenedorMultimedia {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1400px;
+  background-color: #005883;
+  
+}
